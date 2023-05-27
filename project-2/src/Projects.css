@@ -1,0 +1,49 @@
+.projects-page {
+  background-color: #DDD4ED;
+  padding-top: 1in;
+  padding-right: 2in;
+  padding-bottom: 1in;
+  padding-left: 2in;
+  border: 10px solid #443069;
+  box-sizing: border-box;
+  height: 100%;
+}
+
+h1 {
+  animation: drop-in 1s ease 100ms backwards;
+  font-size: 74px;
+  color: #362456;
+}
+
+.project-list {
+  animation: drop-in 1s ease 100ms backwards;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr)); /* Update the grid-template-columns */
+  gap: 2rem;
+}
+
+.project-item {
+  background-color: #FFFFFF;
+  padding: 2rem;
+  box-shadow: rgba(0, 0, 0, 0.1) 1px 10px 10px 0px;
+  text-align: center;
+}
+
+.project-item img {
+  width: 100%;
+  max-height: 200px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.project-item h2 {
+  font-size: 24px;
+  margin-top: 1rem;
+  color: #362456;
+}
+
+.project-item p {
+  font-size: 16px;
+  color: #555555;
+  margin-top: 0.5rem;
+}
