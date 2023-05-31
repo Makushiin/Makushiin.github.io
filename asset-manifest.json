@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.47a02fab.css",
-    "main.js": "/static/js/main.3eb581cf.js",
+    "main.css": "/static/css/main.29299def.css",
+    "main.js": "/static/js/main.9dd9e2e5.js",
     "static/js/787.9e6188a1.chunk.js": "/static/js/787.9e6188a1.chunk.js",
     "static/media/AIPortfolio.png": "/static/media/AIPortfolio.9e4c88f4e3d1673861ab.png",
     "static/media/My project.png": "/static/media/My project.67452c496e1b60a32486.png",
@@ -9,14 +9,14 @@
     "static/media/waterPlant.png": "/static/media/waterPlant.7f228972a6e5b0234e21.png",
     "static/media/AIApp.png": "/static/media/AIApp.80fddb72eea78b9e1af0.png",
     "static/media/Mayor_Resume.pdf": "/static/media/Mayor_Resume.9d87eeadd1c211d77dc7.pdf",
-    "static/media/My project (1).png": "/static/media/My project (1).4624af467c15976156f2.png",
+    "static/media/Logo.png": "/static/media/Logo.4624af467c15976156f2.png",
     "index.html": "/index.html",
-    "main.47a02fab.css.map": "/static/css/main.47a02fab.css.map",
-    "main.3eb581cf.js.map": "/static/js/main.3eb581cf.js.map",
+    "main.29299def.css.map": "/static/css/main.29299def.css.map",
+    "main.9dd9e2e5.js.map": "/static/js/main.9dd9e2e5.js.map",
     "787.9e6188a1.chunk.js.map": "/static/js/787.9e6188a1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.47a02fab.css",
-    "static/js/main.3eb581cf.js"
+    "static/css/main.29299def.css",
+    "static/js/main.9dd9e2e5.js"
   ]
 }
