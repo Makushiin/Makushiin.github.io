@@ -48,7 +48,3 @@ If you have any ideas for improvement or would like to provide feedback, please 
 ## Contact
 
 To get in touch with Maxine, you can send an email to maxinemayor@gmail.com.
-
----
-
-Feel free to modify or add additional sections as needed. Make sure to include any relevant links, screenshots, or acknowledgments to enhance the readability and understanding of your portfolio website.
