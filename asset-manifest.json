@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.eb9a8436.css",
-    "main.js": "/static/js/main.bed67cd3.js",
+    "main.js": "/static/js/main.dc66dbb2.js",
     "static/js/787.9e6188a1.chunk.js": "/static/js/787.9e6188a1.chunk.js",
     "static/media/AIPortfolio.png": "/static/media/AIPortfolio.cede3477bd5792b17ac3.png",
     "static/media/My project.png": "/static/media/My project.67452c496e1b60a32486.png",
-    "static/media/AIChrome.png": "/static/media/AIChrome.28380f9474b3041a0182.png",
     "static/media/waterPlant.png": "/static/media/waterPlant.7f228972a6e5b0234e21.png",
-    "static/media/AIApp.png": "/static/media/AIApp.80fddb72eea78b9e1af0.png",
+    "static/media/spinner.png": "/static/media/spinner.f516ee7465f9a25fbf74.png",
+    "static/media/spinnerapp.png": "/static/media/spinnerapp.f7fb6a516f982b15a01a.png",
     "static/media/Mayor_Resume.pdf": "/static/media/Mayor_Resume.9d87eeadd1c211d77dc7.pdf",
     "static/media/Logo.png": "/static/media/Logo.4624af467c15976156f2.png",
     "index.html": "/index.html",
     "main.eb9a8436.css.map": "/static/css/main.eb9a8436.css.map",
-    "main.bed67cd3.js.map": "/static/js/main.bed67cd3.js.map",
+    "main.dc66dbb2.js.map": "/static/js/main.dc66dbb2.js.map",
     "787.9e6188a1.chunk.js.map": "/static/js/787.9e6188a1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb9a8436.css",
-    "static/js/main.bed67cd3.js"
+    "static/js/main.dc66dbb2.js"
   ]
 }
